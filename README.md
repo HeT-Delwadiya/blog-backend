@@ -2,7 +2,7 @@
 A backend of the Blog project.
 
 # Demo
-  * This app is deployed on cloud. Please check it out :smile: https://blog.hetdelwadiya.dev
+This app is deployed on cloud. Please check it out :smile: https://blog.hetdelwadiya.dev
 
 User - test@user.com | password - 123456
 
